@@ -21,7 +21,7 @@ jobs:
         script: |
           APP_DIR=~/app
           SERVICE_NAME=myapp
-          REPO_URL=your-repo-url
+          REPO_URL=https://github.com/brianxyz3/tesa-fictional-lamp-cicd.git
           VENV_DIR=$APP_DIR/venv
           
 
