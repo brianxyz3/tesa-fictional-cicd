@@ -57,7 +57,7 @@ jobs:
 
           source $VENV_DIR/bin/activate
 
-          # install requirements
+          # install python requirements
           pip install --upgrade pip
           pip install flask gunicorn
 
