@@ -24,7 +24,6 @@ jobs:
           REPO_URL=https://github.com/brianxyz3/tesa-fictional-cicd.git
           VENV_DIR=$APP_DIR/venv
           
-
           # go to app folder (create if missing)
           mkdir -p $APP_DIR
           cd $APP_DIR
